@@ -1,0 +1,31 @@
+# Source files
+src/
+tests/
+.github/
+
+# Development files
+.env.example
+rollup.config.js
+.eslintrc.json
+.prettierrc
+jest.config.js
+
+# Documentation
+docs/
+
+# Build artifacts not in dist
+*.tgz
+
+# Logs
+logs/
+*.log
+
+# Coverage
+coverage/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store

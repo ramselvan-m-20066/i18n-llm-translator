@@ -1,0 +1,24 @@
+{
+  "welcome": "Bienvenido a nuestra aplicación",
+  "buttons": {
+    "save": "Guardar",
+    "cancel": "Cancelar"
+  },
+  "errors": {
+    "required": "Este campo es obligatorio",
+    "email": "Por favor ingrese un email válido"
+  },
+  "placeholders": {
+    "name": "Ingrese su nombre",
+    "email": "Ingrese su email"
+  },
+  "messages": {
+    "success": "Operación completada exitosamente",
+    "loading": "Cargando..."
+  },
+  "navigation": {
+    "home": "Inicio",
+    "about": "Acerca de",
+    "contact": "Contacto"
+  }
+}

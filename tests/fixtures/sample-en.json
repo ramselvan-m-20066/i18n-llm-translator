@@ -1,0 +1,24 @@
+{
+  "welcome": "Welcome to our application",
+  "buttons": {
+    "save": "Save",
+    "cancel": "Cancel"
+  },
+  "errors": {
+    "required": "This field is required",
+    "email": "Please enter a valid email address"
+  },
+  "placeholders": {
+    "name": "Enter your name",
+    "email": "Enter your email"
+  },
+  "messages": {
+    "success": "Operation completed successfully",
+    "loading": "Loading..."
+  },
+  "navigation": {
+    "home": "Home",
+    "about": "About",
+    "contact": "Contact"
+  }
+}
