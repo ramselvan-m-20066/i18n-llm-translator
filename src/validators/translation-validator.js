@@ -3,7 +3,7 @@ class TranslationValidator {
         this.threshold = threshold;
     }
     
-    validate(original, translation, targetLang) {
+    validate(original, translation, _targetLang) {
         if (!translation || translation.trim() === '') {
             return { isValid: false, reason: 'Empty translation' };
         }

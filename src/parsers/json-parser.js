@@ -48,7 +48,7 @@ class JsonParser extends BaseParser {
         return result;
     }
     
-    async update(filePath, translations, existingData, options = {}) {
+    async update(filePath, translations, existingData, _options = {}) {
         const merged = { ...existingData };
         
         for (const trans of translations) {
