@@ -169,7 +169,7 @@ i18n-translate translate -s messages_en.properties -t messages_es.properties -l 
 ### Node.js Script
 
 ```javascript
-import Translator from '@your-scope/i18n-llm-translator';
+import Translator from '@ramselvan-m-20066/i18n-llm-translator';
 
 async function translateFiles() {
     const translator = new Translator({

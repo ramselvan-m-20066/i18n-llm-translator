@@ -1,5 +1,5 @@
 {
-  "name": "@your-scope/i18n-llm-translator",
+  "name": "@ramselvan-m-20066/i18n-llm-translator",
   "type": "module",
   "description": "Smart i18n translation tool using LLM that only translates missing or invalid keys",
   "main": "dist/index.js",
@@ -36,16 +36,16 @@
     "json",
     "cli"
   ],
-  "author": "Your Name <your.email@example.com>",
+  "author": "ramselvan-m-20066 <noreply@github.com>",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yourusername/i18n-llm-translator.git"
+    "url": "git+https://github.com/ramselvan-m-20066/i18n-llm-translator.git"
   },
   "bugs": {
-    "url": "https://github.com/yourusername/i18n-llm-translator/issues"
+    "url": "https://github.com/ramselvan-m-20066/i18n-llm-translator/issues"
   },
-  "homepage": "https://github.com/yourusername/i18n-llm-translator#readme",
+  "homepage": "https://github.com/ramselvan-m-20066/i18n-llm-translator#readme",
   "engines": {
     "node": ">=16.0.0"
   },

@@ -3,7 +3,7 @@
 ## Installation
 
 ```bash
-npm install -g @your-scope/i18n-llm-translator
+npm install -g @ramselvan-m-20066/i18n-llm-translator
 ```
 
 ## Commands

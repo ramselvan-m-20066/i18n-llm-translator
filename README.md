@@ -1,6 +1,6 @@
 # i18n LLM Translator
 
-[![npm version](https://badge.fury.io/js/@your-scope%2Fi18n-llm-translator.svg)](https://badge.fury.io/js/@your-scope%2Fi18n-llm-translator)
+[![npm version](https://badge.fury.io/js/@ramselvan-m-20066%2Fi18n-llm-translator.svg)](https://badge.fury.io/js/@ramselvan-m-20066%2Fi18n-llm-translator)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Smart i18n translation tool using LLM that only translates missing or invalid keys. Save API costs by only translating what's needed!
@@ -18,13 +18,13 @@ Smart i18n translation tool using LLM that only translates missing or invalid ke
 ## Installation
 
 ```bash
-npm install -g @your-scope/i18n-llm-translator
+npm install -g @ramselvan-m-20066/i18n-llm-translator
 ```
 
 Or for local installation:
 
 ```bash
-npm install --save-dev @your-scope/i18n-llm-translator
+npm install --save-dev @ramselvan-m-20066/i18n-llm-translator
 ```
 
 ## Quick Start
@@ -54,7 +54,7 @@ i18n-translate translate -s messages_en.properties -t messages_es.properties -l 
 ### Programmatic Usage
 
 ```javascript
-import Translator from '@your-scope/i18n-llm-translator';
+import Translator from '@ramselvan-m-20066/i18n-llm-translator';
 
 const translator = new Translator({
     apiKey: process.env.OPENAI_API_KEY,
@@ -130,5 +130,5 @@ MIT
 
 ## Support
 
-- Issues: [GitHub Issues](https://github.com/yourusername/i18n-llm-translator/issues)
+- Issues: [GitHub Issues](https://github.com/ramselvan-m-20066/i18n-llm-translator/issues)
 - Documentation: [API Docs](docs/API.md)
